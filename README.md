@@ -15,3 +15,18 @@ a mmemoria estatica.
 a los que no le hemos echo git .add
 
 hola
+## git show 
+>nos muiestra el ultimo commit
+## git log 
+>los commit que se han creado
+## git diff <tag> <tag>
+>nos sirve parta comparar
+ versiones de commits
+ ## git reset -- hard
+ > este es un reset duro, elimina
+ todos los commit antes del tag que
+ escogimos
+ ## git reset --soft
+ >elimina lo que esta en el stagin
+ pero no borra los cambios que tenemos
+ sin git add .
