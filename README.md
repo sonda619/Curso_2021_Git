@@ -30,3 +30,6 @@ hola
  >elimina lo que esta en el stagin
  pero no borra los cambios que tenemos
  sin git add .
+ ## git restore <archivo>
+
+ ## git branch <nombre de la rama>
