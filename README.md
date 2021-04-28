@@ -31,3 +31,6 @@ hola
  pero no borra los cambios que tenemos
  sin git add .
  cambiar nuestro nombre
+ ## git remote -v
+ >cambiar los links del repositorio remoto
+ que viene 
